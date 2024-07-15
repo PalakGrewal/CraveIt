@@ -5,3 +5,61 @@
 body{
     background-color: rgb(240, 225, 202);
 }
+
+
+.pizza-image {
+    mix-blend-mode: multiply;
+    position: absolute;
+    bottom: -20%;
+    right: -8%; 
+    width: 35%;
+    height: auto;
+    z-index: 5;
+  }
+
+  .spinach-image {
+    mix-blend-mode: multiply;
+    position: absolute;
+    top: -15%;
+    left: -5%; 
+    width: 25%;
+    height: auto;
+    z-index: 5;
+    transform: rotate(120deg);
+  }
+
+  .tomato-image {
+    mix-blend-mode: multiply;
+    position: absolute;
+    bottom: -20%;
+    right: 30%; 
+    width: 50%;
+    height: auto;
+    z-index: 5;
+  }
+
+  .spinach2-image {
+    mix-blend-mode: multiply;
+    position: absolute;
+    top: -8%;
+    left: -5%; 
+    width: 25%;
+    height: auto;
+    z-index: -1;
+    transform: rotate(130deg);
+  }
+
+  .tomato2-image {
+    mix-blend-mode: multiply;
+    position: absolute;
+    bottom: 20%;
+    right: -17%; 
+    width: 45%;
+    height: auto;
+    z-index: -1;
+    transform: rotate(90deg);
+  }
+
+
+  
+  
