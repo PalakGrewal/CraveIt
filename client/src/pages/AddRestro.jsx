@@ -33,7 +33,7 @@ const AddRestro=() => {
             </p>
         </div>
       </div>
-      <div className="w-full max-w-3xl mx-auto bg-white text-black p-6 rounded-lg shadow-lg">
+      <div className="w-full max-w-3xl mx-auto bg-white text-black p-6  rounded-lg shadow-lg">
         <h2 className="text-center text-2xl font-bold mb-6">Get started with online ordering</h2>
         <p className="text-center mb-6">Please keep the documents ready for a smooth signup</p>
         <ul className="space-y-4">
@@ -44,10 +44,6 @@ const AddRestro=() => {
           <li className="flex items-center">
             <span className="text-green-500 mr-2">✔</span>
             PAN card copy
-          </li>
-          <li className="flex items-center">
-            <span className="text-green-500 mr-2">✔</span>
-            Regular GSTIN (<a href="#" className="text-blue-500 underline">apply now</a>)
           </li>
           <li className="flex items-center">
             <span className="text-green-500 mr-2">✔</span>
@@ -69,9 +65,9 @@ const AddRestro=() => {
       <section>
       <div className="bg-white text-center py-12">
       <div className="max-w-6xl mx-auto px-4">
-        <h2 className="text-3xl lg:text-4xl font-bold mb-4">Why should you partner with Zomato?</h2>
+        <h2 className="text-3xl lg:text-4xl font-bold mb-4">Why should you partner with CraveIt?</h2>
         <p className="text-lg text-gray-700 mb-8">
-          Zomato enables you to get 60% more revenue, 10x new customers, and boost your brand
+          CraveIt enables you to get 60% more revenue, 10x new customers, and boost your brand
           visibility by providing insights to improve your business.
         </p>
         <div className="flex flex-col md:flex-row justify-center items-center gap-6">
